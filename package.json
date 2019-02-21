@@ -1,0 +1,22 @@
+{
+  "name": "signethereumtx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node raw_tx_demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilipLaurentiu/signEthereumTx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FilipLaurentiu/signEthereumTx/issues"
+  },
+  "homepage": "https://github.com/FilipLaurentiu/signEthereumTx#readme",
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.7"
+  }
+}
